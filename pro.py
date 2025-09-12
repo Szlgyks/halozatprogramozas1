@@ -30,3 +30,21 @@ elif mit.upper() == "T":
     kiir("teglalap", kerulet)
 else:
     print("Hibás választás. Kilépek!")
+
+
+#git init
+#Egy új Git repository létrehozása az aktuális könyvtárban, azaz verziókövetés elindítása.
+#git add
+Kijelöli a fájlokat, amelyeket be szeretnél foglalni a következő mentésbe (commit-ba).
+#git clone
+Egy meglévő távoli repository letöltése és másolat készítése a helyi gépre.
+#git config --global user.name
+#A globális Git felhasználónév beállítása (az összes projektben érvényes lesz).
+#git config --global user.email
+#A Git által használt e-mail cím beállítása globálisan.
+#git log
+#A projekthez tartozó commit előzmények megtekintése, időrendben visszafelé.
+#git commit -m "üzenet"
+#A git add-dal kijelölt változtatások véglegesítése egy megadott leírással.
+#git push
+#A helyi változások feltöltése a távoli repository-ba (például GitHub-ra).
