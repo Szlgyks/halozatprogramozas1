@@ -35,9 +35,9 @@ else:
 #git init
 #Egy új Git repository létrehozása az aktuális könyvtárban, azaz verziókövetés elindítása.
 #git add
-Kijelöli a fájlokat, amelyeket be szeretnél foglalni a következő mentésbe (commit-ba).
+#Kijelöli a fájlokat, amelyeket be szeretnél foglalni a következő mentésbe (commit-ba).
 #git clone
-Egy meglévő távoli repository letöltése és másolat készítése a helyi gépre.
+#Egy meglévő távoli repository letöltése és másolat készítése a helyi gépre.
 #git config --global user.name
 #A globális Git felhasználónév beállítása (az összes projektben érvényes lesz).
 #git config --global user.email
